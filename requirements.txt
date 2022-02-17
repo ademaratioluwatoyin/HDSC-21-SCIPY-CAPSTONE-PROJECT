@@ -1,0 +1,6 @@
+scikit-learn
+matplotlib
+numpy
+pandas
+streamlit==0.69.2
+pickle-mixin
